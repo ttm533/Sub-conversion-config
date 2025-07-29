@@ -1,6 +1,10 @@
 visa.com.hk:443#visa.com.hk
 ip.sb:443#ip.sb
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
+usa.visa.com:443#usa.visa.com
+myanmar.visa.com:8443#myanmar.visa.com
+www.visa.com.tw:2053#www.visa.com.tw
+www.visa.com.br:2087#www.visa.com.br
 www.visa.com:8443#www.visa.com
 cis.visa.com:2053#cis.visa.com
 africa.visa.com:2083#africa.visa.com
